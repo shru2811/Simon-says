@@ -1,0 +1,49 @@
+body{
+  background-color: antiquewhite;
+}
+h1, h2{
+  text-align: center;
+  color: brown;
+  font-size: 40px;
+}
+h2{
+  font-size: 30px;
+}
+.container{
+  height: 500px;
+  width: 500px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.box{
+  height: 180px;
+  width: 180px;
+  background-color: aqua;
+  margin: 10px;
+  border: 8px black solid;
+  border-radius: 20px;
+}
+
+.purple{
+  background-color: purple;
+}
+.pink{
+  background-color: pink;
+}
+.brown{
+  background-color: brown;
+}
+.lightsalmon{
+  background-color: lightsalmon;
+}
+
+.flash{
+  background-color: white;
+}
+.flash1{
+  background-color: black;
+}
